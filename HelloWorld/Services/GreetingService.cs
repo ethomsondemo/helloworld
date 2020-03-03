@@ -11,8 +11,8 @@ namespace HelloWorld.Services
             return new Greeting()
             {
                 Salutation = "Hello",
-                Audience = "NDC Oslo",
-                Description = "Welcome to the finest developer conference in Oslo!"
+                Audience = "VS Live",
+                Description = "Welcome to Las Vegas (Code on the Strip!)"
             };
         }
 
